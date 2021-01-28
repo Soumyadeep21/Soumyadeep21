@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 ![alt text](./images/top.svg)
 
-I love to build :iphone: in Flutter. I :computer: at [Techsalicious](https://techsalicious.com/) as Full Stack Developer.
+### I love to build :iphone: in Flutter. I :computer: at [Techsalicious](https://techsalicious.com/) as Full Stack Developer.
 
 ## Languages & Frameworks :wrench:
 <br/>
@@ -61,14 +61,14 @@ I love to build :iphone: in Flutter. I :computer: at [Techsalicious](https://tec
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep21&repo=Pixels-Wallpaper-App&theme=dark&bg_color=45,06beb6,48b1bf&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" />
 </a></p>
 
-⚡ Facts : 
+### ⚡ Facts : 
 - :soccer: Messi:keycap_ten: is the Best
 - :hamburger: Food is Life
 - :dog2: Huskies are :heart_eyes:
 
 <div align="center">
 
-###Show some :heart: by starring some of the repositories!
+### Show some :heart: by starring some of the repositories!
 
 </div>
 
