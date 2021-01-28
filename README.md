@@ -17,7 +17,6 @@ Here are some ideas to get you started: -->
 ### I love to build :iphone: in Flutter. I :computer: at [Techsalicious](https://techsalicious.com/) as Full Stack Developer.
 
 ## Languages & Frameworks :wrench:
-<br/>
 <p align="center">
 	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
@@ -33,14 +32,13 @@ Here are some ideas to get you started: -->
 <br/>
 
 ## Let's Connect :coffee:
-<br/>
 <p align="center">
 	<a href="https://github.com/Soumyadeep21"><img height=50 src="./images/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img height=50 src="./images/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/asisodiya2421/"><img height=50 src="./images/facebook.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/abhisheksisodiya__/"><img height=50 src="./images/instagram.png" alt="instagram"/></a>
 	<a href="https://twitter.com/sisodiya2421"><img height=50 src="./images/twitter.png" alt="Twitter"/></a>
-    <a href=" https://discordapp.com/users/299846223609987072/"><img height=50 src="./images/discord.png" alt="Twitter"/></a>
+    <a href="https://discordapp.com/users/299846223609987072/"><img height=50 src="./images/discord.png" alt="Discord"/></a>
    
 </p>
 
